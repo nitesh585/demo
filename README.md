@@ -1,3 +1,3 @@
 # demo
 
-Repository for hacktoberfest.
+Repository for hacktoberfest which helps new commer to learn open source contribution.
